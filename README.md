@@ -1,4 +1,6 @@
 # Reverse-an-array-code
+This repositrary consists of c++ code for reversing a defined array....
+
 #include<iostream>
 using namespace std;
 void Search(int arr[],int size,int key){
