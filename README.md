@@ -1,5 +1,5 @@
-# Reverse-an-array-code
-This repositrary consists of c++ code for reversing a defined array....
+# Linear Search Code
+This repositrary consists of c++ code for searching an key via linear search through a defined array....
 
 #include<iostream>
 using namespace std;
